@@ -1,0 +1,156 @@
+.active
+{
+	background-color:#fe980f;
+	border: 0 none;
+    border-radius: 0;
+    margin-top: 16px;
+   	color: #ffffff;
+   	
+}
+
+
+.normal_state{
+	
+	background: gray;
+    border: 0 none;
+    border-radius: 0;
+    margin-top: 16px;
+}
+
+.active:hover
+{
+   	color: #ffffff;
+}
+
+.active:active
+{
+   	color: #ffffff;
+}
+
+.navbutton:hover {
+	background-color: gray;
+}
+
+.div_border {
+	border: 1px solid #FE980F;
+	border-radius: 5px;
+}
+
+.height_topper {
+	height: 30px;
+	background: #FE980F;
+}
+
+.a_text {
+	color: #fff;
+	padding: 5px;
+}
+
+.a_text:hover {
+	color: #fff !important;
+}
+
+.padding {
+	padding: 5px;
+}
+
+.container_background {
+	background-color: #F3F6F5;
+}
+
+.error {
+	border: 2px solid red!important;
+}
+
+
+
+/* stocks*/
+#stock thead {
+	background-color: #34BD8B;
+}
+
+#stock thead  tr th {
+	color: #fff;
+}
+
+#stock_wrapper #stock_filter {
+	background-color: #34BD8B;
+	color: #fff;
+}
+
+.modal-header {
+	background-color: #34BD8B;
+	color: #fff;
+}
+
+/*nav menu*/
+.list-group-horizontal .list-group-item {
+	display: inline-block;
+}
+
+.list-group-horizontal .list-group-item {
+	margin-bottom: 0;
+	margin-left: -4px;
+	margin-right: 0;
+}
+
+.list-group-horizontal .list-group-item:first-child {
+	border-top-right-radius: 0;
+	border-bottom-left-radius: 4px;
+}
+
+.list-group-horizontal .list-group-item:last-child {
+	border-top-right-radius: 4px;
+	border-bottom-left-radius: 0;
+}
+
+.table_info {
+	background-color: #34BD8B;
+	color: #fff;
+	margin: 1px;
+}
+
+.list_container {
+	border: 1px solid #34BD8B;
+}
+
+/*orders*/
+#orders thead {
+	background-color: #FE980F;
+}
+
+#orders thead  tr th {
+	color: #fff;
+}
+
+#orders_wrapper #orders_filter {
+	background-color: #FE980F;
+	color: #fff;
+}
+
+.modal-header {
+	background-color: #FE980F;
+	color: #fff;
+}
+
+
+.productinfo h4
+{
+	
+	color: #FE980F;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.product-template :hover{
+	border:1px solid yellow;
+	
+}
+
+/* footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+  
+} */
